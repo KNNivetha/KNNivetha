@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KNNivetha
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,PHP,SQL,JAVA,C, and I'm constantly learning new things.
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,SQL,JAVA,C, and I'm constantly learning new things.
 - 📫 How to reach me, By Mail-knnivetha105@gmail.com
 
 <!---
